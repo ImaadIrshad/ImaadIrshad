@@ -56,5 +56,3 @@ I run independent Solidity security audits (Mythril, Slither) on production smar
 I'm actively exploring new roles — feel free to reach out via [LinkedIn](https://linkedin.com/in/imaad-irshad) or [email](mailto:iibhatkar@gmail.com). Always happy to talk blockchain infrastructure, AWS architecture, or why a smart contract audit found what it found.
 
 ---
-
-<p align="center"><i>Currently restoring a 2013 VW Scirocco R on the side — turns out debugging a car isn't that different from debugging a Lambda function.</i></p>
