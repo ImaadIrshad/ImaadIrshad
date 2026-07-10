@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Imaad Irshad 👋</h1>
-<h3 align="center">Software Engineer — Backend, Blockchain, Cloud & AI · Dubai, UAE</h3>
+<h3 align="center">Software Engineer — Backend, Cloud & AI · Dubai, UAE</h3>
 <p align="center">
   <a href="https://linkedin.com/in/imaad-irshad"><img src="https://img.shields.io/badge/LinkedIn-imaad--irshad-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:iibhatkar@gmail.com"><img src="https://img.shields.io/badge/Email-iibhatkar%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
