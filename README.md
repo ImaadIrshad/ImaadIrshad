@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/imaad-irshad"><img src="https://img.shields.io/badge/LinkedIn-imaad--irshad-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:iibhatkar@gmail.com"><img src="https://img.shields.io/badge/Email-iibhatkar%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat" />
 </p>
 
 ---
@@ -16,11 +15,11 @@ Lately I've been extending that systems background into **applied AI/LLM enginee
 
 What ties it all together: I like understanding systems deeply enough to be trusted with them — whether that's an async streaming API, a Lambda-based backend, or a smart contract handling real transactions. I learn fast, ask a lot of "why does this actually work" questions, and I'm comfortable owning something I've never touched before.
 
-### 🔭 Currently
+### 🔭 What I'm Working On
 
-- Open to new opportunities in **Backend Engineering**, **AI/LLM Engineering**, and **Cloud/DevOps** roles — remote or Dubai-based
 - Building a **conversational recommender system** in Python — two LLM approaches (RAG + a function-based multi-agent pipeline) served through an async, streaming FastAPI API
 - Deepening **Python** and **applied LLM engineering** (RAG, vector search, agent orchestration), building on a strong backend and cloud foundation
+- Exploring **Rust**, with an eye toward systems and protocol-level work
 
 ### 🛠️ Tech I Work With
 
@@ -61,6 +60,6 @@ Security is part of how I build, not an afterthought. I've run independent Solid
 
 ### 📫 Let's Connect
 
-I'm actively exploring new roles — feel free to reach out via [LinkedIn](https://linkedin.com/in/imaad-irshad) or [email](mailto:iibhatkar@gmail.com). Always happy to talk backend architecture, AI/LLM systems, AWS infrastructure, or why a smart contract audit found what it found.
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/imaad-irshad) or [email](mailto:iibhatkar@gmail.com). Always happy to talk backend architecture, AI/LLM systems, AWS infrastructure, or why a smart contract audit found what it found.
 
 ---
